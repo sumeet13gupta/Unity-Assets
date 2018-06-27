@@ -77,7 +77,7 @@ All sizes prefabs are unique and different - so Large Islands are not the same a
 - 400 Island Prefabs 
 - 274 River Prefabs 
 - 8 Water Prefabs (Static Mesh Planes)
-<br></br>
+
 <b>Package: Low Poly Rocks Pack</b>
 
 <b>Link:</b> https://assetstore.unity.com/packages/3d/environments/low-poly-rocks-pack-70164
@@ -186,7 +186,7 @@ You also get 23 Bonus Prefabs:
 - 5 Hills 
 - 1 Mountain 
 - 4 Clouds 
-<br></br>
+
 <b>Package: Low Poly Vegetation Pack</b>
 
 <b>Link:</b> https://assetstore.unity.com/packages/3d/vegetation/low-poly-vegetation-pack-80146
