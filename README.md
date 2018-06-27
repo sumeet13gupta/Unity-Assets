@@ -1,9 +1,10 @@
 # Unity-Assets
 
-Package: Curved World
-Link: https://assetstore.unity.com/packages/vfx/shaders/curved-world-26165
+<b>Package: Curved World</b>
 
-Description:
+<b>Link:</b> https://assetstore.unity.com/packages/vfx/shaders/curved-world-26165
+
+<b>Description:</b>
 
 Curved World is not Image Effect. It's simple, but very powerful per mesh material shader effect. 
 
@@ -14,17 +15,16 @@ Curved World is highly optimized for mobiles and contains: Unlit, One Directiona
 Curved World offers shaders for high-end devices with: Standard, Legacy, Unity Terrain and Nature, Water, DX11 Tessellation shaders. 
 
 Additional Sprite, Particle, Projector, 2D Skybox, Flare, Cartoon and Outline shaders. 
+<br></br>
+<b>Package: Low Poly Modular Terrain Pack</b>
 
+<b>Link:</b> https://assetstore.unity.com/packages/3d/environments/low-poly-modular-terrain-pack-91558
 
-
-Package: Low Poly Modular Terrain Pack
-Link: https://assetstore.unity.com/packages/3d/environments/low-poly-modular-terrain-pack-91558
-
-Description:
+<b>Description:</b>
 
 This package contains a huge variety of different modular terrains, rivers, mountains, islands and ice assets ready to use for your game to create unique landscapes. Just drag and drop prefabs to your scene and achieve beautiful results in no time. PC & mobile friendly assets.
 
-Features:
+<b>Features:</b>
 
 - Modular Prefabs 
 - Tileable 
@@ -69,7 +69,7 @@ Island / Ice Prefabs comes in four sizes
 
 All sizes prefabs are unique and different - so Large Islands are not the same as medium or small.
 
-Package Contains:
+<b>Package Contains:</b>
 
 - 1538 Modular Terrain Prefabs 
 - 960 Mountain Prefabs 
@@ -77,13 +77,12 @@ Package Contains:
 - 400 Island Prefabs 
 - 274 River Prefabs 
 - 8 Water Prefabs (Static Mesh Planes)
+<br></br>
+<b>Package: Low Poly Rocks Pack</b>
 
+<b>Link:</b> https://assetstore.unity.com/packages/3d/environments/low-poly-rocks-pack-70164
 
-
-Package: Low Poly Rocks Pack
-Link: https://assetstore.unity.com/packages/3d/environments/low-poly-rocks-pack-70164
-
-Description:
+<b>Description:</b>
 
 This package contains a huge variety of different rocks ready to use for your game levels. Just drag and drop prefabs to your scene and achieve beautiful results in no time. PC & mobile friendly. 
 
@@ -98,7 +97,7 @@ Now you get two types of Rocks:
 One Colour - Default Rocks, one color per Rock. 
 Two Colour - Two colours per Rock. The first color is a base rock color, the second color is a snow by default, you can change it to any color like sand, moss, etc. 
 
-Package Contains: 
+<b>Package Contains:</b>
 
 367 Unique Low Poly Rock Prefabs (+367 in Snow): 
 
@@ -125,14 +124,13 @@ You also get 36 Bonus Prefabs:
 - 1 Island (from Low Poly Modular Terrain Pack) 
 - 1 Water - Static Water Plane (from Low Poly Modular Terrain Pack) 
 
--All Bonus Prefabs has Colliders attached except Clouds, Water, and Fire particles.
+All Bonus Prefabs has Colliders attached except Clouds, Water, and Fire particles.
+<br></br>
+<b>Package: Low Poly Trees Pack</b>
 
+<b>Link:</b> https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-trees-pack-73954
 
-
-Package: Low Poly Trees Pack
-Link: https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-trees-pack-73954
-
-Description:
+<b>Description:</b>
 
 This package contains a huge variety of different trees ready to use for your game levels. Just drag and drop prefabs to your scene and achieve beautiful results in no time. PC & mobile friendly assets.
 
@@ -142,7 +140,7 @@ You can choose between:
 Trees with and without bottom faces. 
 Prefabs with Very Low Poly Mesh Colliders (more accurate collision) or Capsule Colliders (better performance and Unity Terrain support). 
 
-Other Features: 
+<b>Other Features:</b>
 
 All Prefabs optimized to have as low poly as possible without losing the quality and style. 
 
@@ -152,7 +150,7 @@ All Prefab meshes are One Sided as it should be and you also get Fir, Palm, and 
 
 Bonus Prefabs has Mesh Colliders attached except Clouds and Water plane. 
 
-Package Contains:
+<b>Package Contains:</b>
  
 446 Unique Low Poly Tree Prefabs (Including LOD) (+446 in Snow): 
 
@@ -188,13 +186,12 @@ You also get 23 Bonus Prefabs:
 - 5 Hills 
 - 1 Mountain 
 - 4 Clouds 
+<br></br>
+<b>Package: Low Poly Vegetation Pack</b>
 
+<b>Link:</b> https://assetstore.unity.com/packages/3d/vegetation/low-poly-vegetation-pack-80146
 
-
-Package: Low Poly Vegetation Pack
-Link: https://assetstore.unity.com/packages/3d/vegetation/low-poly-vegetation-pack-80146
-
-Description:
+<b>Description:</b>
 
 This package contains a huge variety of different plants, grass, bushes, and other plants ready to use for your game levels. Just drag and drop prefabs to your scene and achieve beautiful results in no time. PC & mobile friendly assets.
 
@@ -206,7 +203,7 @@ Grass Planes use 9 different grass textures (you can use those textures inside T
 
 Every prefab pivot is at the center bottom of the model, so you can easily drop it on the ground, scale, and rotate them. 
 
-Package Contains:
+<b>Package Contains:</b>
 
 432 Unique Low Poly Vegetation Prefabs: 
 
